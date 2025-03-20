@@ -141,7 +141,7 @@ Once all the dependencies are installed, you can run the script to analyze a dom
 
 - [@Xclusive-Ishan](https://github.com/Xclusive-Ishan)
 
-##Visuals :
+## Visuals :
 ![Policy_text_extracted](https://github.com/Xclusive-Ishan/WebPolicy-Inspector/blob/main/Policy_text_extracted.png)
 
 ![Summary Generated](https://github.com/Xclusive-Ishan/WebPolicy-Inspector/blob/main/Summary_visible.png)
